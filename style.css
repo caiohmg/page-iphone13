@@ -99,7 +99,7 @@ main section{
   opacity: .80;
 }
 #green{
-  background: #384937;
+  background: #195416;
 }
 #pink{
   background: #f8ddd6;
@@ -121,7 +121,7 @@ main section{
   z-index: 100;
 }
 .main-img img{
-  width: 25rem;
+  width: 20rem;
   transform: rotate(-7deg);
 }
 .circle{
@@ -131,5 +131,6 @@ main section{
   width: 100%;
   height: 100%;
   background: #445c42;
-  clip-path: circle(800px at right 1000px);
+  clip-path: circle(700px at right 1000px);
 }
+
